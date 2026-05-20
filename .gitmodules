@@ -1,0 +1,3 @@
+[submodule "classiflow"]
+	path = classiflow
+	url = git@github.com:amarkowitzchla/classiflow.git
